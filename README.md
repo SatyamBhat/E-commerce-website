@@ -8,3 +8,6 @@
 <p>Here is the demo. 👉<strong>https://morning-castle-57375.herokuapp.com/</strong></p>
 
  
+![Screenshot (67)](https://user-images.githubusercontent.com/70839335/191296695-6fcc4231-079e-4048-bd49-f4f3ab40f12a.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/70839335/191296757-58b8766b-db35-4014-a76e-76594bf1d54e.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/70839335/191296768-45204669-bc0e-4dd1-8c9e-a649b5beaf7b.png)
